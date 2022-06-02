@@ -1,0 +1,3 @@
+﻿  Tree.cpp
+C:\Users\slanc\OneDrive\Рабочий стол\Курсовая с++\Tree\Tree\Tree.cpp(22,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Tree.vcxproj -> C:\Users\slanc\OneDrive\Рабочий стол\Курсовая с++\Tree\Debug\Tree.exe
